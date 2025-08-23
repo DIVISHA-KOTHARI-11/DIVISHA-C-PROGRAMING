@@ -1,0 +1,14 @@
+#include <stdio.h>
+//Fahrenheit to Celcius
+int main()
+{
+float F;
+    printf("enter the value in Fahrenheit: ");
+    scanf("%f", &F);
+float x = 5;
+float z= x/9;
+float y = F-32;
+float C = z*y;
+    printf("Celcius: %f", C);
+return 0;
+}
