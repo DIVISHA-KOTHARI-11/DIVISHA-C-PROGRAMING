@@ -1,7 +1,7 @@
 # C Programming Practice Questions
 
 Welcome to the **C Programming Practice** repository!  
-This repository contains a collection of solved basic C programming questions aimed at beginners who are learning the fundamentals of the C language.
+This repository contains a collection of solved basic C programming questions aimed at beginners who are learning the fundamentals of the C language.THese are basically my college assignments 
 
 ## 📘 Contents
 
